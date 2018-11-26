@@ -1,4 +1,4 @@
-
+ruby
 require "spec_helper"
 
 describe "#catch_phrase" do
